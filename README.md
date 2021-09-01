@@ -1,9 +1,10 @@
 ### Hi there 👋
+```elixir
 "Gustavo Maia"
 |> loves_functional()
 |> loves_backend()
 |> elixir_enthusiast()
-
+```
 <div>
   <a href="https://github.com/gustavopmaia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavopmaia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
