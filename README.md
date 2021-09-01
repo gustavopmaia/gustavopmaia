@@ -1,8 +1,8 @@
 ### Hi there 👋
 ```elixir
 "Gustavo Maia"
-|> loves_functional()
-|> loves_backend()
+|> love_functional()
+|> love_backend()
 |> elixir_enthusiast()
 ```
 <div>
