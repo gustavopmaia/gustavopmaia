@@ -1,8 +1,8 @@
 ### Hi there 👋
-"Gustavo Maia" \n
-|> loves_functional() \n
-|> loves_backend() \n
-|> elixir_enthusiast() \n
+"Gustavo Maia"
+|> loves_functional()
+|> loves_backend()
+|> elixir_enthusiast()
 
 <div>
   <a href="https://github.com/gustavopmaia">
