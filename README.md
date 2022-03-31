@@ -47,6 +47,6 @@ I love the entire process of developing backend.
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/gustavopmaia)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gustavopmaia)](https://github.com/gustavopmaia)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=gustavopmaia.gustavopmaia)]
