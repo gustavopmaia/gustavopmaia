@@ -9,7 +9,7 @@ Elixir Software Engineer 💻
 I love the entire process of developing backend.
 
 ### 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/linkedin.png" alt="Gustavo Maia | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/gustavo-maia-84283a1bb/"><img align="left" src="https://raw.githubusercontent.com/gustavopmaia/gustavopmaia/main/linkedin.png" alt="Gustavo Maia | LinkedIn" width="21px"/></a>
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
