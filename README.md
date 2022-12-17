@@ -2,7 +2,7 @@
 Hi there, I'm <a href="https://github.com/gustavopmaia" target="_blank" rel="noreferrer">Gustavo</a> 👋
 </h1>
 
-<h3> align="center">
+<h3 align="center">
 Elixir Software Engineer 💻
 </h2> 
 
