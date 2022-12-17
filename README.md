@@ -6,30 +6,10 @@ Hi there, I'm <a href="https://github.com/gustavopmaia" target="_blank" rel="nor
 Elixir Software Engineer 💻
 </h2> 
 
-### 🤝 Connect with me:
-<div align="center">
-  <a href="https://github.com/gustavopmaia" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://dev.to/gustavopmaia" target="_blank">
-  <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://linkedin.com/in/gustavopmaia" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
-</div>
-
+- 🔭 I'm currently working on [Stackly](https://github.com/stackly-com)
+- 👊 Moved by goals. I'm making it happen
+- 🏓 Table tennis
 - 💬 Ask me about everything, I'll always try to help!
-
-## 🔭 I'm currently working on
-
-- [Stackly](https://github.com/stackly-com)
-
-## 🌱 I'm currently learning
-
-- React
-- React Native
-- Phoenix LiveView 
 
 ## 💼 Technical Skills
 
@@ -56,3 +36,15 @@ Elixir Software Engineer 💻
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gustavopmaia)](https://github.com/gustavopmaia)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=gustavopmaia.gustavopmaia)]
+
+<div align="center">
+  <a href="https://github.com/gustavopmaia" target="_blank">
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://dev.to/gustavopmaia" target="_blank">
+  <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/gustavopmaia" target="_blank">
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+</div>
