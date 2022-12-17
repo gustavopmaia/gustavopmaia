@@ -32,11 +32,7 @@ Elixir Software Engineer 💻
 
 
 ## 📈 GitHub Stats 
-<div align="center">
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gustavopmaia)](https://github.com/gustavopmaia)]
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=gustavopmaia.gustavopmaia)]
-</div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <div align="center">
   <a href="https://github.com/gustavopmaia" target="_blank">
