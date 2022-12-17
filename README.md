@@ -1,23 +1,29 @@
-<h3 align="center">
+<h1 align="center">
 Hi there, I'm <a href="https://github.com/gustavopmaia" target="_blank" rel="noreferrer">Gustavo</a> 👋
-</h3>
+</h1>
 
-<h2 align="center">
+<h3> align="center">
 Elixir Software Engineer 💻
 </h2> 
 
-I love the entire process of developing backend.
-
 ### 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/gustavo-maia-84283a1bb/"><img align="left" src="https://raw.githubusercontent.com/gustavopmaia/gustavopmaia/main/linkedin.png" alt="Gustavo Maia | LinkedIn" width="21px"/></a>
-<br>
+<div align="center">
+  <a href="https://github.com/gustavopmaia" target="_blank">
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://dev.to/gustavopmaia" target="_blank">
+  <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/gustavopmaia" target="_blank">
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+</div>
 
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 💬 Ask me about everything, I'll always try to help!
 
 ## 🔭 I'm currently working on
 
-- Wabanex, exercise manager
-- My website
+- [Stackly](https://github.com/stackly-com)
 
 ## 🌱 I'm currently learning
 
