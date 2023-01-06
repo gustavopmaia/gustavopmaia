@@ -3,7 +3,7 @@ Hi there, I'm <a href="https://github.com/gustavopmaia" target="_blank" rel="nor
 </h1>
 
 <h3 align="center">
-Elixir Software Developer 💻
+Software Developer 💻
 </h2> 
 
 - 🔭 I'm currently working on [Stackly](https://github.com/stackly-com)
