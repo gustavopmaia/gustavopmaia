@@ -6,7 +6,7 @@ Hi there, I'm <a href="https://github.com/gustavopmaia" target="_blank" rel="nor
 Software Developer 💻
 </h2> 
 
-- 🔭 I'm currently working on [Stackly](https://github.com/stackly-com)
+- 🔭 I'm currently working on [Stackly](https://github.com/gustavopmaia/stackly)
 - 👊 Moved by goals. I'm making it happen
 - 🏓 Table tennis
 - 💬 Ask me about everything, I'll always try to help!
