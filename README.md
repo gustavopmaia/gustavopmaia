@@ -4,7 +4,13 @@ Hi there, I'm <a href="https://github.com/gustavopmaia" target="_blank" rel="nor
 
 <h3 align="center">
 Software Developer 💻
-</h2> 
+</h3> 
+
+- Javascript
+- Typescript
+- NodeJS
+- React
+
 
 ## 📈 GitHub Stats 
 <div align="center">
